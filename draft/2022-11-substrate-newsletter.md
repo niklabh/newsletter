@@ -4,6 +4,8 @@ $title
 ## TL;DR and important announcements
 
 ## 🔦 Community highlights
+
+test
  
 ## 📆 Upcoming events
  
